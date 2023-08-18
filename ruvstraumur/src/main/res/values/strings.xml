@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">RUV í Beinni</string>
-    <string name="player_activity_name">RÚV í Beinni</string>
+    <string name="app_name">Iceland TV Live Stream</string>
+    <string name="player_activity_name">Iceland TV Live Stream</string>
     <string name="ruv_hls_stream"><![CDATA[https://ruvlive.akamaized.net/out/v1/317f60ed57214a39872eacca6fa96f2d/index.m3u8]]></string>
     <string name="ruv_stream_json"><![CDATA[https://geo.spilari.ruv.is/channel/ruv]]></string>
 </resources>

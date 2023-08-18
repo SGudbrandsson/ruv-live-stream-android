@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package `is`.snjall.ruvstraumur
+package `is`.snjall.icelivetv
 
 import android.annotation.SuppressLint
 import android.os.Bundle
@@ -31,7 +31,7 @@ import androidx.media3.exoplayer.ExoPlaybackException
 import androidx.media3.exoplayer.ExoPlayer
 import androidx.media3.exoplayer.trackselection.DefaultTrackSelector
 import com.android.volley.toolbox.JsonObjectRequest
-import `is`.snjall.ruvstraumur.databinding.ActivityPlayerBinding
+import `is`.snjall.icelivetv.databinding.ActivityPlayerBinding
 import kotlinx.coroutines.*
 import org.json.JSONObject
 import org.json.JSONTokener
